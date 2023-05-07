@@ -1,3 +1,3 @@
 # Sysen-5800-Project
-Abstract
+
 Mean-variance optimization is a common formulation for solving portfolio optimization problems. This study intends to examine the scalability of various algorithms when solving an MVO problem subject to an increasing number of variables and constraints. The quadratic nature of MVO algorithms and their corresponding NP-hard complexity suggests that increasing the number of decision variables will increase computational time. To mitigate the computational difficulties of large MVO problems, a variety of solvers (e.g. CONOPT, MINOS, and LOQO) will be employed to understand the limitations of each and determine best practices. 
